@@ -1,15 +1,11 @@
 #include <stdio.h>
-
 /**
+ * main-print the string in the put function
  *
- *  * main - Entry point
- *
- *   *
- *
- *    * Return:0 
- *
- *     */
-
+ * Decription: using the main function
+ * this program prints "Programming is like building a multilingul puzzle"
+ * Return :0
+ */
 int main(void)
 
 {
