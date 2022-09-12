@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 /**
  * main - print the sting in the put function
  *
