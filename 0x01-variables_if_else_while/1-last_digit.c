@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - print whether the number is positive, zero, or negative 
+ * main - print whether the number is positive,zero,or negative 
  * Description: using the main function
  * this program prints "Programming is positive, zero, or negative
  * Returns: 0
@@ -10,7 +10,7 @@
 int main(void)
 {
 	int n;
-		int l;
+	int l;
 	
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
